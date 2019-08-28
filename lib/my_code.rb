@@ -112,3 +112,9 @@ def reduce_to_any_true(source_array)
   
 end
 
+<<<<<<< HEAD
+=======
+# Scrap Code 
+
+puts reduce_to_all_true([1,2,3, nil])
+>>>>>>> 20597f3073bf4ca0cbb77b1918f780cc54b5ea44
